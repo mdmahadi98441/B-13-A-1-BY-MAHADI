@@ -170,3 +170,39 @@ font-size: 16px;
     color: #627382;
     text-align: center;
 }
+
+.fast-box{
+    display: flex;
+    width: 1600px;
+    margin: 0 auto;
+}
+.all-content{
+    width: 1360px;
+    display: flex;
+    margin: 120px;
+    
+    align-items: center;
+    gap: 60px;
+}
+.fast-img{
+    height: 600px;
+    width: 600px;
+}
+.icon{
+    list-style: none;
+    gap: 2px;
+    
+}
+.fast-content h2{
+    font-size: 48px;
+    margin-top: 16px;
+}
+.other{
+    font-size:16px ;
+    color: #30b868;
+}
+.fast-content p{
+    font-size: 16px;
+    margin-top: 16px;
+    color: #627382;
+}
