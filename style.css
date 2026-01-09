@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:rgb(249, 248, 248);
+    
+    max-width:1600px ;
+    height: 92px;
+}
+nav .logo{
+    margin-left:120px;
+    padding-top: 5px;
+}
+.btn button{
+   background-color:#30b868 ;
+   border:none;
+   border-radius: 5px;
+   padding: 13px 16px ;  
+   margin-right: 120px;
+   font-weight: bold;
+   color: white;
+
+
+
+
+}
+ nav ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    
+ }
+ nav li a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+ }
